@@ -53,7 +53,7 @@ height_shade(raster_to_matrix(new_raster)) %>%
 
 #Aggregate data (ie, grid data into large cells)
 agg <- aggregate(x = new_raster, fact = 50, fun = sum)
-disagg<-disaggregate(x = agg, fact = 50) #Have to disaggregate by the same amount to end up with a raster that matches the elevation data
+disagg<-disaggregate(x = agg, fact = 50) #Have to disaggregate by the same amount to end up with a raster that matches the resolution of the elevation data so they can be added.
 
 #Do some raster arithmetic
 final<-(6*log(elevation))+(2*(disagg+1)^0.5) #Add the elevation data to the attempts data. Trial and error to find a good combination.
