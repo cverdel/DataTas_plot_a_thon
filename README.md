@@ -62,7 +62,7 @@ plot(final)
 At this stage we've created a new elevation raster that is a combination of the actual elevation data and the number of expedition members that have attempted a climb.
 ![alt text][Rplot_newdem]
 
-[final_plot]: https://github.com/cverdel/DataTas_plot_a_thon/blob/main/Rplot_newdem.png?raw=true
+[Rplot_newdem]: https://github.com/cverdel/DataTas_plot_a_thon/blob/main/Rplot_newdem.png?raw=true
 ```
 #Add a colour scale
 pal <- wes_palette("Zissou1", 256, type = "continuous")
