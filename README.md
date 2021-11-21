@@ -4,4 +4,4 @@
 
 [final_plot]: https://github.com/cverdel/DataTas_plot_a_thon/blob/main/final_plot.png?raw=true
 
-Trial script to make rayshader maps. This will produce a 3D render in an interactive rgl window, as well as a 2D shaded relief map.
+The idea behind this is to combine a simple bar chart with a shaded relief map. I've added two external datasets: digital elevation data from the Himalaya region, and a table with latitude and longitude corrdinates for many of the peaks in the Himalayan database.
