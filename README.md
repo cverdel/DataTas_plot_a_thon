@@ -70,7 +70,13 @@ At this stage we've created a new elevation raster that is a combination of the 
 #Add a colour scale
 pal <- wes_palette("Zissou1", 256, type = "continuous")
 image_map <- image_raster(final, col=pal, xaxt='n', yaxt='n', ann=FALSE)
+```
+This is one of my favourite colour palettes. It's the [Zissou1](https://github.com/karthik/wesanderson) palette based on the Wes Anderson movie "The Life Aquatic with Steve Zissou."
+![alt text][zissou]
 
+[zissou]: https://github.com/cverdel/DataTas_plot_a_thon/blob/main/zissou.png?raw=true
+
+```
 #Splits image up into rgb
 names(image_map) = c("r","g","b")
 image_map_r = rayshader::raster_to_matrix(image_map$r)
