@@ -31,7 +31,7 @@ elevation=elevation1+0 #Creates a LargeRasterLayer
 res(elevation1)
 
 #Load peak locations
-locations <- readr::read.csv('https://github.com/cverdel/DataTas_plot_a_thon/raw/main/peaks_coords_clean.csv')
+locations <- readr::read_csv('https://github.com/cverdel/DataTas_plot_a_thon/raw/main/peaks_coords_clean.csv')
 
 #Find the sum of all members for each expedition for each peak
 peaksum <- aggregate(members~peak_id,expeditions,sum)
