@@ -1,0 +1,366 @@
+peak_id,peak_name,peak_alternative_name,height_metres,lat,long
+KOTA,Kotang,"Kokthang, Kothang Kang",6148,27.5636,88.0825
+RATH,Rathong,NA,6682,27.5936,88.0911
+KABS,Kabru South,NA,7318,27.6087,88.1115
+KABR,Kabru Main,Kabru Central,7412,27.6202,88.1242
+BOKT,Boktoh,Bokta,6114,27.6268,88.0209
+KABN,Kabru North,NA,7338,27.635,88.1185
+TLNG,Talung,NA,7349,27.65,88.1333
+JANU,Jannu,Khumbhakarna,7711,27.6824,88.0439
+PHOL,Phole,NA,6645,27.6858,88.01
+NAUL,Naulekh,NA,6340,27.6869,86.9047
+JANE,Jannu East,Khumbhakarna East,7460,27.6879,88.0608
+KANS,Kangchenjunga South,NA,8476,27.6917,88.1543
+KANC,Kangchenjunga Central,NA,8473,27.6964,88.1508
+KANG,Kangchenjunga,NA,8586,27.7025,88.1467
+YALU,Yalung Kang,Yalungkar,8505,27.7053,88.136
+MERA,Mera Peak,"""False"" Mera Peak",6470,27.7086,86.8706
+KANB,Kangbachen,Kambachen,7902,27.7167,88.1102
+KBNE,Kangbachen East,Kambachen East,7780,27.7175,88.1581
+ANID,Anidesh Chuli,White Wave Peak,6808,27.7186,88.0708
+KUSU,Kusum Kanguru,"Kusum Kang, Lamu",6370,27.7306,86.7908
+KARY,Karyolung,NA,6530,27.7336,86.612
+GIMM,Gimmigela Chuli,Twins,7350,27.7401,88.1586
+MERR,Merra,NA,6334,27.7408,88.0197
+RAMT,Ramtang,NA,6601,27.7508,88.0958
+SPH1,Sharphu I,Tanga I,6433,27.7522,87.9197
+NUMB,Numbur,NA,6958,27.7544,86.5731
+KYAS,Kyashar,"Peak 43, Tangnag Tseng",6770,27.7553,86.825
+KHAT,Khatang,NA,6790,27.7575,86.5983
+SPH2,Sharphu II,Tanga II,6328,27.7578,87.9217
+TAPL,Taple Shikhar,Cross Peak,6447,27.7611,88.1478
+MOJC,Mojca,Mojka,6024,27.7706,88.0506
+TUTS,Tutse,"Peak 6, Nephu",6758,27.7719,87.1014
+PK41,Peak 41,"""True"" Mera Peak",6648,27.7739,86.9114
+CHAM,Chamlang,NA,7321,27.7756,86.9797
+NEPA,Nepal Peak,NA,7177,27.7768,88.1828
+KTEG,Kangtega,"Kantega, Khangtega, Kang Taiga",6783,27.7833,86.8167
+KIRA,Kirat Chuli,Tent Peak,7362,27.7886,88.1983
+THAM,Thamserku,Tramserku,6618,27.7903,86.7875
+KWAN,Kwangde,NA,6186,27.7919,86.6483
+MALA,Malanphulan,"Melanphulan, Hinku Ri",6573,27.8028,86.8722
+TKPO,Tengkangpoche,Thyangmoche,6482,27.8039,86.5986
+PANT,Panalotapa,"Paniyo Tapa, Paniyo Tippa",6687,27.8042,86.5697
+LIK2,Linkhu Chuli Nup,"Bigphera-Go Nup, Pigpferago Nup, Linkhu Chuli II",6659,27.805,86.5261
+TENG,Tengkoma,Tang Kongma,6215,27.8086,88.0745
+LIK1,Linkhu Chuli Shar,"Bigphera-Go Shar, Pigpferago Shar, Linkhu Chuli I",6719,27.8111,86.5447
+NCHU,Nupchu,Sharphu IV,6172,27.8152,87.9152
+SPH4,Sharphu IV,Nupchu,6172,27.8153,87.9203
+DANG,Danga,NA,6220,27.8165,87.9767
+HUNK,Hunku,NA,6119,27.8175,87.0119
+HNKU,Hongku Chuli,"Hunku Chuli, Pyramid Peak",6833,27.8176,87.0091
+RAMD,Ramdung,Ramdong Go,5900,27.8186,86.4336
+PYRM,Pyramid Peak,"Pathibhara Chuli, Pathibhara Khas",7140,27.8208,88.1723
+SALD,Saldim,NA,6374,27.8214,87.1731
+DROM,Drohmo,"Domo, Longridge Peak",6881,27.8239,88.105
+SALW,Saldim West,"Peak 5, Saldim Ri, Yaphu Ri",6388,27.8242,87.1592
+SPHN,Sphinx,"Pathibhara Phurba, Pathibhara East",6825,27.825,88.1903
+HONK,Hongku,"Hongku Chuli Nup, Honku, Sura Peak",6764,27.8256,86.9794
+CPHU,Chhochenphu Himal,NA,6260,27.8319,87.7644
+LNAK,Lhonak,Rifil Peak,6070,27.8319,88.0572
+CHUG,Chukyima Go,Chugimago,6258,27.8322,86.4525
+SHER,Shershon,Peak 3,6432,27.8339,87.1289
+PARC,Parchamo,"Parchermo, Parchemuche, Pachermo",6279,27.8365,86.5474
+YAUP,Yaupa,NA,6422,27.8369,87.1431
+OMBG,Ombigaichen,Puma Dablam,6340,27.8525,86.8858
+PK04,Peak 4,Shershon Ri,6736,27.8528,87.0133
+JABR,Jabou Ri,NA,6166,27.8539,86.5153
+LNPO,Langpo,Longpo,6965,27.8541,88.1957
+AGLE,Agole East,Angole East,6675,27.8547,86.5689
+SHNW,Shershon Northwest,NA,6682,27.8553,87.1108
+TENR,Tengi Ragi Tau,"Agole, Angole",6938,27.8572,86.5564
+AMAD,Ama Dablam,Amai Dablang,6814,27.8619,86.8612
+PAND,Pandra,NA,6670,27.8644,87.9953
+LMOC,Langmoche Ri,NA,6552,27.8672,86.555
+AMPH,Amphu I,NA,6740,27.8703,86.9556
+BARU,Baruntse,NA,7152,27.8717,86.98
+JANK,Janak Chuli,"Janak, Outlier",7041,27.8717,88.0933
+TKRG,Takargo,Dragker-go,6771,27.8747,86.5117
+KALI,Kali Himal,"Chota Ri, Baruntse North",6985,27.8766,86.9751
+DOMK,Dome Kang,NA,7264,27.8768,88.1471
+JONG,Jongsang,"Jonsong, Jhinsang",7462,27.8811,88.1381
+DOMO,Domo,Jongsang SE Peak,7447,27.8819,88.1483
+CHOB,Chobuje,"Chobutse, Tsoboje",6686,27.8822,86.4917
+SYKG,Syaokang,NA,5929,27.8825,87.8961
+AMPG,Amphu Gyabjen,NA,5630,27.8836,86.8709
+LAS2,Lashar II,Loshar II,6803,27.8868,88.0648
+MAK2,Makalu II,Kangchungtse,7678,27.8892,87.0908
+MAKA,Makalu,NA,8485,27.8897,87.0889
+NAN2,Nangamari II,NA,6209,27.8914,87.8672
+NUMR,Numri,NA,6635,27.8953,86.9758
+GHAN,Ghhanyala Hies,NA,6744,27.8956,88.0828
+PIMU,Pimu,Pamalka,6344,27.8956,86.5546
+LASH,Lashar I,Loshar I,6842,27.8963,88.054
+TAWO,Tawoche,Taboche,6495,27.8967,86.7775
+OHMI,Ohmi Kangri,NA,6839,27.8969,87.9642
+ROLK,Rolwaling Kang,Rolwaling Khang,6664,27.8975,86.5231
+DZA2,Dzanye II,NA,6318,27.9022,88.0411
+DZAN,Dzanye,Dzanaye,6581,27.9056,88.0308
+KNAG,Kang Nagchugo,Khang Nagchugo,6737,27.9061,86.4447
+RAUN,Raungsiyar,NA,6224,27.9078,86.5594
+BAMO,Bamongo,NA,6406,27.9096,86.4289
+CHAW,Chaw Peak,Chaw East,6404,27.9097,87.9442
+CHEK,Chekigo,NA,6121,27.9097,86.4143
+PBUK,Pabuk Kang,Kangata,6244,27.91,87.8906
+NANG,Nangamari I,NA,6547,27.9106,87.8686
+OMIT,Omitso Go,Omi Tso Go,6332,27.9153,86.4581
+LDAK,Langdak,NA,6220,27.9169,86.5636
+CHOL,Cholatse,"Tsolatse, Jobo Lhaptshan",6423,27.9181,86.7667
+CHOP,Cho Polu,NA,6700,27.9192,86.9819
+IMJA,Imjatse,Island Peak,6165,27.9206,86.9378
+POKA,Pokalde,NA,5780,27.9244,86.8358
+BEDG,Beding Go,Bedding Go,6125,27.9258,86.3931
+CHRI,Chhukung Ri,NA,5550,27.9258,86.8788
+CHAG,Chago,NA,6893,27.9261,87.054
+PHAR,Pharilapcha,NA,6017,27.9292,86.6836
+DOLM,Dolma Khang,Tseringma,6332,27.9372,86.3503
+GAUS,Gaurishankar South,Gauri,7010,27.9372,86.3503
+CHUK,Chhukung Tse,Chhukung Chuli,5833,27.9389,86.8772
+DRAN,Drangnag Ri,Thaknak Ri,6757,27.9394,86.5241
+YANK,Yanme Kang,Yanme Khang,6206,27.9461,87.8497
+LDNG,Langdung,Ripumutse,6326,27.9478,86.4842
+SHA2,Shartse II,Junction Peak,7457,27.9492,86.9853
+JUNC,Junction Peak,NA,7133,27.9494,86.9831
+PTHE,Pethangtse East,NA,6572,27.9494,87.0361
+GAUR,Gaurishankar,Jomo Tseringma,7135,27.9533,86.3358
+PETH,Pethangtse,NA,6739,27.9575,87.0183
+LSHR,Lhotse Shar,Lhotse II,8382,27.9583,86.9433
+LOBE,Lobuje East,Lobuche East,6090,27.9595,86.7899
+LHOM,Lhotse Middle,Lhotse Intermediate,8410,27.9611,86.9408
+LHOT,Lhotse,NA,8516,27.9617,86.9333
+NUPT,Nuptse,NA,7864,27.9664,86.89
+LOBW,Lobuje West,Lobuche West,6135,27.9689,86.7847
+DINS,Dingjung Ri,Dingjung Ri South,6196,27.9744,86.5228
+NREK,Nirekha,NA,6159,27.9775,86.7653
+KCHN,Kangchung Nup,"Khangchung Nup, Kangcho Nup, Cholo",6043,27.9837,86.7207
+KCHS,Kangchung Shar,"Khangchung, Kangcho Shar, UIAA Peak",6063,27.9837,86.7372
+DING,Dingjung North,"Kangkuru, Rima Mancho",6249,27.9878,86.5169
+EVER,Everest,"Sagarmatha, Chomolungma, Qomolungma",8850,27.9881,86.9253
+PANG,Pangbuk Ri,NA,6625,28.0053,86.5222
+CHUM,Chumbu,NA,6859,28.0142,86.7883
+PUMO,Pumori,NA,7138,28.0147,86.8281
+KGRI,Khangri Shar,NA,6792,28.0189,86.8153
+KHUM,Khumbutse,NA,6639,28.0206,86.875
+CTSE,Changtse,Everest North Peak,7583,28.0253,86.9142
+LING,Lingtren,NA,6713,28.0275,86.8572
+HCHI,Hungchhi,"Hunchhi, Chakung, Gyubanare Kang, Gyuba Tshomotse",7029,28.0347,86.7611
+BURK,Burke Kang,Burke Khang,6942,28.0369,86.7739
+THRK,Tharke Kang,Tharke Khang,6710,28.0439,86.7517
+DZAS,Dzasampatse,NA,6295,28.0468,86.6096
+LUNR,Lunag Ri,"Lunag I, Rongshar Ri I, Ondrej Peak",6895,28.0531,86.5517
+CBAM,Chhopa Bamare,Chomo Pamari,6109,28.0572,86.0919
+JOBO,Jobo Rinjang,Jobo Ribjang,6778,28.0661,86.5653
+NAG1,Nangpai Gosum I,"Nagpai Gosum I, Cho Aui",7321,28.0706,86.6378
+PASA,Pasang Lhamu Chuli,Jasemba,7350,28.0733,86.6169
+NUPL,Nup La Kang,Nupla Khang,6861,28.0742,86.7669
+NAG2,Nangpai Gosum II,"Nagpai Gosum II, Chamar",7287,28.0747,86.6525
+JASG,Jasemba Goth,Dzasampa Kang,6730,28.0872,86.605
+CHOY,Cho Oyu,NA,8188,28.0942,86.6608
+GYAC,Gyachung Kang,NA,7861,28.0981,86.7422
+NUPK,Nupche Kang,"Friendship Peak, Nupche Himal",6576,28.1014,86.605
+KORL,Korlang Pari Tippa,Korlang Pari Tippa North,5738,28.1024,86.1128
+NGOJ,Ngojumba Kang I,"Ngozumba Kang, Ngozumba Ri, Tenzing Peak",7916,28.1058,86.6869
+NGO2,Ngojumba Kang II,NA,7743,28.106,86.7061
+YUBR,Yubra,NA,6264,28.1075,85.5681
+PHUR,Phurbi Chhyachu,Phurbi Ghyachu,6637,28.1306,85.8719
+URMA,Urkema,"Baden Powell Scout Peak, Urgyenma",5890,28.1664,85.5336
+GANC,Ganchenpo,"Fluted Peak, Ganchempo",6378,28.1689,85.6756
+URKM,Urkinmang,Buddha,6143,28.1692,85.715
+DORJ,Dorje Lhakpa,NA,6966,28.1739,85.7792
+GYLZ,Gyalzen Peak,Gyaltsen Peak,6151,28.1839,85.8417
+LEON,Leonpo Gang,"Dorje Pahad, Big White Peak",6979,28.1956,85.8019
+BTAK,Bhairab Takura,Madiya,6799,28.1978,85.8097
+LEOE,Leonpo Gang East,Gyalgen Peak,6733,28.2025,85.8178
+GURK,Gurkarpo Ri,NA,6889,28.21,85.7728
+LSIS,Langshisa Ri,Langsisa Ri,6412,28.2169,85.7164
+GHEN,Ghenge Liru,"Ghenye Lirung, Langtang II",6596,28.2481,85.4739
+PEMK,Pemthang Karpo Ri,"Dome Blanc, Kan Karmo",6865,28.2492,85.7506
+YANS,Yansa Tsenji,"Dragpoche, Dhagpache",6567,28.2565,85.6051
+LANG,Langtang Lirung,Langtang,7227,28.2575,85.5158
+SHAL,Shalbachum,"Salbachum, Phrul Rangtshan Ri",6707,28.2711,85.6305
+BHEM,Bhemdang Ri,Morimoto,6150,28.2733,85.6678
+LANY,Langtang Yubra,Yubra Himal,6048,28.2773,85.5688
+PALD,Paldor,Bharange,5903,28.2786,85.1839
+KYR1,Kyungka Ri 1,Kyungya Ri 1,6599,28.2964,85.6706
+KYR2,Kyungka Ri 2,Kyungya Ri 2,6506,28.3033,85.6647
+DRAG,Dragmorpa Ri,"Thakmarpo Ri, Panaya Tippa",6185,28.3253,85.6642
+GAN5,Ganesh V,NA,6770,28.3316,85.1585
+GAN3,Ganesh III,"Salasungo, Kang Lombo, Lopsang Karbo",7043,28.3353,85.1247
+GAN4,Ganesh IV,Pabil,7104,28.3458,85.08
+PERI,Peri,NA,6174,28.3531,85.7236
+GAN6,Ganesh VI,NA,6908,28.3711,85.0639
+BAUD,Baudha,NA,6672,28.3756,84.6789
+GAN2,Ganesh II,NA,7118,28.3789,85.0592
+LANR,Langtang Ri,NA,7205,28.3814,85.6836
+GAN1,Ganesh I,Yangra Kangri,7422,28.3925,85.13
+HIMW,Himalchuli West,NA,7540,28.4361,84.6165
+HIME,Himalchuli East,Himalchuli Main,7893,28.4375,84.6364
+HIMN,Himalchuli North,NA,7331,28.4492,84.6045
+MARD,Mardi Himal,NA,5553,28.4731,83.9308
+LAMJ,Lamjung Himal,NA,6983,28.4894,84.1892
+MACH,Machhapuchhare,NA,6993,28.495,83.9492
+PK29,Peak 29,"Ngadi Chuli, Dakura, Dr Harka Gurung Chuli",7871,28.5033,84.5675
+HIUP,Hiunchuli,Patal Hiunchuli,6434,28.51,83.85
+SIMN,Simnang Himal,"P2, Simnang Himal East",6251,28.5165,84.645
+ANNS,Annapurna South,"Annapurna Dakshin, Moditse",7219,28.518,83.806
+THUL,Thulagi,Mansiri Himal,7059,28.5278,84.5228
+ANN2,Annapurna II,NA,7937,28.5358,84.1214
+ANN4,Annapurna IV,NA,7525,28.5375,84.0828
+GAND,Gandharva Chuli,"Gandharbha, Gabelhorn Peak",6248,28.5383,83.9622
+LNJU,Langju,Lajo Dada,6426,28.5458,85.0553
+MANA,Manaslu,"Kutang I, Peak 30",8163,28.5494,84.5619
+PHNH,Phungi Himal,NA,6538,28.5544,84.4858
+CHMN,Chamar North,Peak 23,7165,28.5553,84.9469
+ROLM,Rolmi,NA,6056,28.5678,85.0503
+FANG,Fang,"Varaha Shikhar, Varaha Chuli, Finger",7647,28.5781,83.8033
+PAMA,Pama Himal,NA,6300,28.5803,84.9511
+TOBS,Tobsar,Tabsar,6065,28.5806,85.0594
+MANN,Manaslu North,Manaslu II,6994,28.5835,84.5493
+THAR,Tharpu Chuli,Tent Peak,5695,28.5847,83.9306
+ANN3,Annapurna III,NA,7555,28.5856,83.9894
+SING,Singu Chuli,Fluted Peak,6501,28.5872,83.885
+ANN1,Annapurna I,NA,8091,28.5957,83.8267
+ANNM,Annapurna I Middle,NA,8051,28.6,83.8333
+GANW,Gangapurna West,"Lachenal Peak, Asapurna",7140,28.6011,83.9439
+GANG,Gangapurna,NA,7455,28.6049,83.9631
+TARS,Tarke Kang Shar,Tare Kang,7069,28.605,83.9144
+GLAC,Glacier Dome,"Tarke Kang, Tarke Khang",7168,28.6067,83.8895
+ROCN,Roc Noir,"Khangsar Kang, Khang Sar Khang",7485,28.6109,83.8636
+ANNE,Annapurna I East,NA,8026,28.6128,83.8369
+SAUL,Saula,NA,6235,28.6139,84.7561
+PAN2,Panpoche 2,Pang Phunch 2,6504,28.6142,84.6875
+PKAR,Pankar Himal,NA,6264,28.6164,84.7425
+LARK,Larkya Peak,"Granite Peak, Naike Peak",6416,28.6269,84.545
+PAN1,Panpoche 1,"Pang Phunch 1, Kutang Himal",6620,28.6289,84.6839
+SAMD,Samdo,NA,6335,28.6361,84.6972
+MANP,Manapathi,NA,6380,28.6456,83.4589
+PISA,Pisang,Jong Ri,6091,28.6461,84.1883
+NILS,Nilgiri South,NA,6839,28.6537,83.7292
+KGUR,Kang Guru,Naurgaon,6981,28.6575,84.3014
+PUCH,Punchen Himal,Puchen Himal,6049,28.6608,85.1483
+GHUS,Ghustang South,"Gurja West, Paschim Himal",6465,28.6722,83.2461
+GURJ,Gurja Himal,NA,7193,28.6739,83.2778
+NILC,Nilgiri Central,NA,6940,28.6783,83.7357
+GHUN,Ghustang North,NA,6529,28.6806,83.2472
+TILI,Tilicho,Tilitso,7134,28.6844,83.8044
+NILN,Nilgiri North,NA,7061,28.689,83.7439
+DHA1,Dhaulagiri I,NA,8167,28.6967,83.495
+DHA6,Dhaulagiri VI,NA,7268,28.7084,83.2738
+TILJ,Tilje,NA,6530,28.7103,84.3953
+GAMA,Gama Peak,NA,7187,28.7168,83.2768
+NPHU,Narphu,NA,5921,28.7169,84.1239
+PANB,Panbari,NA,6905,28.7183,84.4839
+SWEL,Swelokhan,NA,6180,28.725,84.6464
+CHRW,Churen Himal West,NA,7371,28.732,83.21
+GYAJ,Gyajikang,Gyaji Khang,7074,28.7331,84.3742
+DHA5,Dhaulagiri V,NA,7618,28.7337,83.3606
+PHUG,Phu Kang Go,"Phu Khang Go, Athahra Saya Khola Himal",6767,28.7347,84.4939
+NEMJ,Nemjung,NA,7140,28.735,84.4167
+CHUR,Churen Himal Central,NA,7385,28.7352,83.2182
+DHA4,Dhaulagiri IV,NA,7661,28.7359,83.314
+CHUL,Chulu Central,Chulu East,6584,28.736,84.0348
+CHRE,Churen Himal East,NA,7371,28.7427,83.2286
+CHUW,Chulu West,NA,6419,28.7437,84.0231
+TUKU,Tukuche,NA,6920,28.7464,83.5586
+PERH,Peri Himal,NA,6296,28.7472,84.4817
+PUTH,Putha Hiunchuli,Dhaulagiri VII,7246,28.7472,83.1486
+SAIP,Saipal,NA,7030,28.7472,83.1486
+CHUB,Chhuboche,NA,5606,28.7517,84.2183
+GYLA,Gyala,NA,6363,28.7519,84.5589
+DHA3,Dhaulagiri III,"Nalu, Naula",7715,28.754,83.3777
+HIMJ,Himjung,Nemjung Goth,7092,28.7568,84.418
+DHA2,Dhaulagiri II,NA,7751,28.7631,83.3906
+CHEO,Cheo Himal,NA,6820,28.765,84.4522
+POTA,Pota Himal North,Peak Hawley,6182,28.7675,83.1975
+HMLE,Himlung East,NA,6932,28.7692,84.4389
+HIML,Himlung Himal,NA,7126,28.7717,84.4225
+KTUN,Khatung Khang,NA,6484,28.7769,83.9214
+SITA,Sita Chuchura,NA,6611,28.7825,83.4847
+THOR,Thorong Peak,Thorung Peak,6144,28.7825,83.93
+JING,Jinjang,"Genjang, Gajang, Jijang",6111,28.7845,84.0319
+PHUK,Phu Kang,Phu Khang,6694,28.7933,84.4492
+DHAM,Dhampus,"Thapa Peak, Marpha Peak",6012,28.7981,83.6119
+PURB,Purbung Himal,Putrung,6500,28.8014,84.0206
+YAKA,Yakawa Kang,NA,6482,28.8086,83.9444
+POKR,Pokharkang,Pokhar Khang,6372,28.8128,84.2289
+PURK,Purkhung,"Purkhang, Purkung",6126,28.8147,83.9928
+MUKT,Mukut Himal,"Mukot Himal, Langru",6087,28.8169,83.4822
+PHUN,Phu Kang North,Phu Khang North,6580,28.8208,84.4378
+SISN,Sisne Himal,Hiunchuli Patan,5911,28.8278,82.6186
+PHNG,Phungi,NA,6524,28.83,84.4028
+AMOT,Amotsang,Amatson,6393,28.8347,84.1725
+JOMS,Jomsom Himal,Jomsang Himal,6335,28.8408,84.1558
+HONG,Hongde,"Hangde, Hongde Himal",6556,28.8431,83.4992
+TASH,Tashi Kang,Tashi Khang,6386,28.8531,83.6314
+TSAR,Tsartse,NA,6343,28.8614,83.6486
+RATC,Ratna Chuli,NA,7035,28.8644,84.3772
+CHIV,Chhiv Himal,Chhib Himal,6650,28.8738,84.1597
+CHAK,Chako,NA,6704,28.8806,84.2886
+SARI,Saribung,Selibung,6328,28.8844,84.1739
+KARS,Karsang Kang,Kharsang,6225,28.893291,84.181616
+BHRS,Bhrikuti Shail,NA,6361,28.8938,84.2258
+LUGU,Lugula,NA,6899,28.8961,84.2617
+KAKU,Kang Kuru,NA,6344,28.9014,84.1861
+BHRI,Bhrikuti,Damodar Himal,6476,28.9207,84.148
+SANK,Sano Kailash,NA,6452,28.9419,84.1336
+DHEC,Dhechyan Khang,NA,6019,29.0358,84.2519
+GAUG,Gaugiri,NA,6110,29.0453,84.19
+KAGA,Kanta Gaton,Kangfu Gaton,5910,29.1033,82.9958
+NORB,Norbu Kang,Norbu Khang,6085,29.1192,83.0747
+KAG1,Kagmara I,NA,5978,29.1378,82.7613
+ARNK,Arniko Chuli,Araniko Chuli,6034,29.1761,83.6594
+DUDH,Dudh Kundali,"Dui Tal Chuli, Two Lakes Peak",6045,29.2239,82.5456
+LHAS,Lha Shamma,"Lhasharma, Pinnacle Peak",6412,29.2258,82.7472
+CHKA,Chamar Kang,"Chharka, Kangtega",6060,29.2361,83.3633
+KJER,Kanjeralwa,Kanchen Ruwa,6612,29.2367,82.7889
+GHYN,Ghyun Himal I,NA,6110,29.2442,83.7819
+MUST,Mustang Himal,NA,6195,29.2861,83.81
+SHEY,Shey Shikhar,Junction Peak,6139,29.2869,82.7972
+BIJO,Bijora Hiunchuli,NA,6111,29.2919,82.5308
+MNSS,Mansail South,Manshail South,6248,29.2944,83.8103
+MNSL,Mansail,Manshail,6235,29.302,83.8156
+TRIP,Tripura Hiunchuli,"Tripura Thumba, Hanging Glacier Peak",6553,29.3264,82.7375
+JAGD,Jagdula,NA,5761,29.3269,82.5919
+TSOK,Tso Karpo Kang,Tso Karpo Khang,6556,29.3681,82.7808
+KJRS,Kanjiroba South,NA,6883,29.3752,82.6354
+KJRN,Kanjiroba North,NA,6858,29.3838,82.6431
+KAND,Kande Hiunchuli,NA,6627,29.4119,82.5589
+PATR,Patrasi Himal,Kande Hiunchuli North,6450,29.4211,82.5925
+BHUL,Bhulu Lhasa,NA,6102,29.4414,82.5994
+LUNG,Lungchhung,NA,6043,29.6283,83.1222
+DANS,Danphe Shail,Danfe Shail,6103,29.6725,83.0103
+SWAK,Swaksa Kang,NA,6405,29.6864,82.8583
+YARA,Yala Chuli,Yara Chuli,6236,29.6894,82.8289
+MARI,Mariyang,NA,6528,29.6933,82.8889
+TANK,Tankya I,NA,6305,29.7061,82.9169
+CHNG,Changdi,NA,6623,29.7192,82.7986
+TAKL,Takla Kang,Takla Khang,6276,29.7611,82.6953
+KANT,Kanti Himal,"Ronglai Kangri, Kaqur Kangri, Kubi Grangri",6850,29.7664,82.7536
+MAYT,Mayonthang Kang,Mayun Thang Khang,6449,29.7697,82.7467
+ROKA,Rokapi,Kapchuli,6468,29.8478,81.0403
+KNTE,Kanti Himal East,NA,6516,29.8531,82.7022
+KOJI,Kojichuwa Chuli,NA,6439,29.8656,82.6436
+JETH,Jethi Bahurani,"Jettiborani, Jutibofurani",6850,29.8817,81.0425
+SAIE,Saipal East Humla,NA,6925,29.8911,81.5006
+FIRW,Firnkopf West,NA,6745,29.8981,81.4469
+FIRN,Firnkopf,Firnkopf East,6730,29.9013,81.4558
+KAPT,Kaptang,NA,5965,29.9269,82.5736
+BOBA,Bobaye,NA,6808,29.9592,81.0225
+LHAY,Lhayul Peak,NA,6395,29.9761,80.8689
+APIW,Api West,NA,7076,30.0017,80.9256
+APIM,Api Main,NA,7132,30.0042,80.9333
+NAMP,Nampa,Chisel Peak,6729,30.0042,80.9969
+RAKS,Raksha Urai,Raksha Urai III,6609,30.0058,81.1289
+GORK,Gorakh Khang,NA,6254,30.0442,82.3375
+GORH,Gorakh Himal,NA,6198,30.065,82.2331
+GDNG,Gave Ding,NA,6581,30.1258,82.1658
+LCHA,Lachama Chuli,"Kubi Kangri, Kubi Dongdong",6721,30.1364,82.2006
+LCHN,Lachama North,NA,6628,30.1433,82.2
+TILK,Til Kang,NA,6369,30.27,81.4144
+ACHN,Aichyn,"Aychin, Ashvin",6055,30.2708,81.8597
+TAKP,Takphu Himal,NA,6395,30.2839,81.4178
+CHAN,Changla,Changla Himal,6563,30.3031,82.1289
+TAKN,Takphu North,NA,6142,30.3036,81.4222
+CHWT,Changwathang,NA,6130,30.3264,81.8883
+NALA,Nalakankar North,NA,6062,30.3575,81.4014
+CHND,Chandi Himal,NA,6142,30.3592,81.9514
