@@ -103,8 +103,7 @@ ray_layer = ray_shade(small_el_matrix, zscale = zscale1, sunaltitude=40, sunangl
 zscale2=1
 #Plot in 3D
 rgl::rgl.close() #Closes the rgl window in case it's open
-(image_map_array) %>% #
-  # sphere_shade(texture = "desert") %>%
+(image_map_array) %>% 
   add_shadow(ray_layer,0.3) %>%
   add_shadow(ambient_layer,0.1) %>%
   plot_3d(small_el_matrix, zscale=zscale2, asp=1, fov = 90, theta = 20, zoom = 0.6, phi = 60, 
