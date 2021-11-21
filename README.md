@@ -28,8 +28,14 @@ download.file(DEM_url, temp1, mode="wb")
 
 elevation1 = raster::raster(temp1)
 elevation=elevation1+0 #Creates a LargeRasterLayer
-res(elevation1)
+height_shade(raster_to_matrix(elevation)) %>%
+  plot_map()
+```
+This is what the original elevation data look like.
+![alt text][Rplot_originaldem]
 
+[Rplot_originaldem]: https://github.com/cverdel/DataTas_plot_a_thon/blob/main/Rplot_originaldem.png?raw=true
+```
 #Load peak locations
 locations <- readr::read_csv('https://github.com/cverdel/DataTas_plot_a_thon/raw/main/peaks_coords_clean.csv')
 
@@ -47,9 +53,6 @@ r <- raster(extent(elevation)) #Creates a raster r with the same extent as eleva
 res(r)<-raster::res(elevation) #Sets resolution of new raster to the same as the elevation dataset
 
 new_raster<-rasterize(locations, r, locations$members, background=0, fun = mean) #Creates a raster wherein values are the total number of expedition members who have attempted that peak
-
-height_shade(raster_to_matrix(new_raster)) %>%
-  plot_map()
 
 #Aggregate data (ie, grid data into large cells)
 agg <- aggregate(x = new_raster, fact = 50, fun = sum)
