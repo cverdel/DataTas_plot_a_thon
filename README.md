@@ -76,6 +76,7 @@ This is one of my favourite colour palettes. It's the [Zissou1](https://github.c
 
 [zissou]: https://github.com/cverdel/DataTas_plot_a_thon/blob/main/zissou.png?raw=true
 
+The rest finishes the plot and saves it as a png. The plot is also displayed in an interactive rgl window.
 ```
 #Splits image up into rgb
 names(image_map) = c("r","g","b")
