@@ -58,7 +58,12 @@ disagg<-disaggregate(x = agg, fact = 50) #Have to disaggregate by the same amoun
 #Do some raster arithmetic
 final<-(6*log(elevation))+(2*(disagg+1)^0.5) #Add the elevation data to the attempts data. Trial and error to find a good combination.
 plot(final)
+```
+At this stage we've created a new elevation raster that is a combination of the actual elevation data and the number of expedition members that have attempted a climb.
+![alt text][Rplot_newdem]
 
+[final_plot]: https://github.com/cverdel/DataTas_plot_a_thon/blob/main/Rplot_newdem.png?raw=true
+```
 #Add a colour scale
 pal <- wes_palette("Zissou1", 256, type = "continuous")
 image_map <- image_raster(final, col=pal, xaxt='n', yaxt='n', ann=FALSE)
@@ -107,3 +112,4 @@ w=2000
 h=2400
 rgl::par3d(windowRect = c(0,0,w,h))
 render_snapshot("final_plot", width=w, height=h, software_render = FALSE)
+```
