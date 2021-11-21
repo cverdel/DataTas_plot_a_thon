@@ -46,7 +46,7 @@ coordinates(locations) <- ~long+lat
 r <- raster(extent(elevation)) #Creates a raster r with the same extent as elevation
 res(r)<-raster::res(elevation) #Sets resolution of new raster to the same as the elevation dataset
 
-new_raster<-rasterize(locations, r, locations$members, background=0, fun = mean) #Creates a raster where the values are the total number of members who have attempted that peak
+new_raster<-rasterize(locations, r, locations$members, background=0, fun = mean) #Creates a raster wherein values are the total number of expedition members who have attempted that peak
 
 height_shade(raster_to_matrix(new_raster)) %>%
   plot_map()
