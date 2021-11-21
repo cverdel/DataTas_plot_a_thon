@@ -1,4 +1,4 @@
-# DataTas_plot_a_thon
+# DataTas plot-a-thon entry for Charlie Verdel
 
 ![alt text][final_plot]
 
