@@ -4,7 +4,7 @@
 
 [final_plot]: https://github.com/cverdel/DataTas_plot_a_thon/blob/main/final_plot.png?raw=true
 
-The idea behind this is to combine a simple bar chart with a shaded relief map. I've added two external datasets: digital elevation data from the Himalaya region, and a table with latitude and longitude corrdinates for many of the peaks in the Himalayan database.
+The idea behind this is to combine a simple bar chart with a shaded relief map. I've added two external datasets: digital elevation data from the Himalaya region, and a table with latitude and longitude coordinates for many of the peaks in the Himalayan database.
 
 ```
 library(tidyverse)
@@ -22,9 +22,9 @@ expeditions <- readr::read_csv('https://raw.githubusercontent.com/rfordatascienc
 peaks <- readr::read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-09-22/peaks.csv')
 
 #Load elevation data
-DEM_url<-"https://github.com/cverdel/DataTas_plot_a_thon/raw/main/DEM.tif"
+DEM_url<-"https://github.com/cverdel/DataTas_plot_a_thon/raw/main/dem.tif"
 temp1<-tempfile()
-download.file(DEM_url, temp2, mode="wb")
+download.file(DEM_url, temp1, mode="wb")
 
 elevation1 = raster::raster(temp1)
 elevation=elevation1+0 #Creates a LargeRasterLayer
